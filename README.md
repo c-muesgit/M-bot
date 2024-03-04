@@ -4,7 +4,7 @@ Inspired by the Voron Trident, SimpleCore, Gasherbrum K3, VzBoT vz-235 and V-Kin
 
 [CAD Files](/CAD)
 
-### Features:
+### Main Features:
 
 **- Power:**
   - 48 Volt PSU for XY Motors
