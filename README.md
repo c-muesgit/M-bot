@@ -15,6 +15,6 @@ Inspired by the Voron Trident, SimpleCore, Gasherbrum K3, VzBoT vz-235 and V-Kin
   - CoreXY axis on linear rails
 
 **- Frame:**
-    - Mostly 2020 extrusions (find source)
-    - 370mm top and bottom X and Y
-    - 500mm for Z axis
+  - 2020 extrusions
+     - 370mm top and bottom X and Y
+     - 500mm for Z axis
